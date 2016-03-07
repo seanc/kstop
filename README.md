@@ -2,14 +2,7 @@
 > KissAnime adblocker
 
 ## Installation
-```shell
-$ npm install kstop
-```
-
-## Usage
-```javascript
-import kstop from 'kstop';
-```
+Todo
 
 ## Credits
 | ![seanc][avatar] |
