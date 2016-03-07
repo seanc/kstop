@@ -1,0 +1,2 @@
+# kstop
+KissAnime adblocker
